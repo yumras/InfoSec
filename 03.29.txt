@@ -1,0 +1,11 @@
+WRITE ONCE RUN ANYWHERE
+WORA
+
+.JAVA -> .CLASS -> JVM
+
+.APK -> .CLASS -> DECOMPILER -> .JAVA (역COMPILE이 가능 / 약하게 처리함(JVM이 중간에 있음))(처리가 느림)
+
+C, C++ -> EXE(HEXA, 0101000001)(역COMPLIE이 불가능/ 강하게 처리함)(처리가 빠름)
+
+자바머신에서 CA FE BA BE -> CLASS선언
+

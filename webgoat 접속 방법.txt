@@ -1,0 +1,19 @@
+[접속방법]
+1. cmd 창에서 8080 포트의 프로세스 번호 검색
+netstat -ano | findstr :8080
+AAAA
+
+2. cmd 창에서 AAAA 번호의 파일 이름 검색
+Tasklist | findstr AAAA
+BBBB.bbb - (설명 탭에 Oracle...)
+
+3. 작업관리자에서 BBBB.bb 프로세스 종료
+
+4. cmd에서 jar 파일 설치 경로로 이동 F:\HanminLee\InfoSecurity
+
+5. cmd 창에 java -jar webgoat-server-8.0.0.M12.jar 입력
+
+6. 크롬에서 http://localhost:8080/WebGoat/login
+
+7. ID: kopostd16 / PW: kopopwd16
+
